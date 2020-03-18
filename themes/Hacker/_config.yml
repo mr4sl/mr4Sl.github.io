@@ -1,0 +1,23 @@
+menu:
+  Home: /
+  Archives: /archives
+  tags: /tags
+  Friends: /friends
+  About: /aboutme
+
+# gitment
+gitment: false
+gitment_owner:
+gitment_repo:
+gitment_client_id:
+gitment_client_secret:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
+
+local_search:
+  enable: false
